@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @viktorilie
+- 👋 Hi, I’m Viktor Ilie
 - 👀 Interested in C#, .NET, JavaScript, React, TypeScript...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate Web Development
+- 🌱 I’m currently learning ... React with TypeScript, improving my .NET knowledge
+- 💞️ I’m looking to collaborate Web Development and make the world better place
 - 📫 How to reach me ...
 - 
 - viktor.ilie@outlook.com
-- 
+- GitHub : https://github.com/viktorilie 
