@@ -8,10 +8,10 @@
 </p>
 
 <p>
-- 💞️ I’m looking to collaborate Web Development and make the world better place  
+- 💻 I’m looking to collaborate Web Development and make the world better place  
 </p>
 <p>
-- 📫 How to reach me ??
+- 📮How to reach me ??
 </p>
 
 <p>
