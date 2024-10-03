@@ -4,7 +4,7 @@
 - 👀 Interested in  React, TypeScript, C#, .NET and many other web technologies...  
 </p>
 <p>
-- 🌱 I’m currently learning ... React with TypeScript, improving my .NET knowledge  
+- 🧑‍💻 I’m currently learning ... React with TypeScript, improving my .NET knowledge  
 </p>
 
 <p>
