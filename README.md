@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viktorilie" alt="viktorilie" /></a> </p>
 
-- 🔭 I’m currently working on **company projects** @ sevenITeen in Macedonia
+- 🔭 I’m currently working on **company projects** @ A1 in Macedonia
 
-- 🌱 I’m currently learning **React, .NET and everything related with web development**
+- 🌱 I’m currently learning and developing my skills in  **SQL, Linux Azure Synapsis and everything related with data**
 
 - 👨‍💻 All of my projects are available at [https://github.com/viktorilie](https://github.com/viktorilie)
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://viktorilie.github.io/Portfolio-Vi/](https://viktorilie.github.io/Portfolio-Vi/)
 
-- ⚡ Fun fact **besides learning programming lanuages i also speak 4 langiages!!!**
+- ⚡ Fun fact **besides working in DWH industry also worked as Web developer, civil engineer and speak 4 langiages!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
