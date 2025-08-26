@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viktor Ilie</h1>
-<h3 align="center">A DWH developer, problem solving engineer,... ex web developer!</h3>
+<h3 align="center">A DWH developer, problem solving person, engineer,... ex web developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viktorilie&label=Profile%20views&color=0e75b6&style=flat" alt="viktorilie" /> </p>
 
