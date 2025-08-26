@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viktorilie&label=Profile%20views&color=0e75b6&style=flat" alt="viktorilie" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viktorilie" alt="viktorilie" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viktorilie&theme=radical" alt="viktorilie" /></a> </
 
 - 🔭 I’m currently working on **company projects** @ A1 in Macedonia
 
